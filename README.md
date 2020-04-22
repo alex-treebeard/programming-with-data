@@ -1,5 +1,6 @@
 # Programming with Data: Python and Pandas
 
+
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dgerlanc/programming-with-data/master)
 
 This repository contains the slides, exercises, and answers for Parts I and II
